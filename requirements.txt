@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+pandas
+xlrd
+gsw
+netCDF4
+xarray
+PyCO2SYS
