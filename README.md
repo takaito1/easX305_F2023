@@ -1,1 +1,3 @@
-# easX305_F2023
+# repo for EAS4305/6305 for Fall 2023
+
+Week 1: Thermodynamic equation of state: [MATLAB](https://github.com/takaito1/easX305_2022/blob/main/week1/PCO_Week1.mlx), [python](https://github.com/takaito1/easX305_2022/blob/main/week1/PCO_Week1.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_2022/HEAD?labpath=week1%2FPCO_Week1.ipynb) and some tips for reading excel file (.xls) [MATLAB](https://github.com/takaito1/easX305_2022/blob/main/week1/read_excel_from_BATS.mlx), [python](https://github.com/takaito1/easX305_2022/blob/main/week1/read_excel_from_BATS.ipynb)
