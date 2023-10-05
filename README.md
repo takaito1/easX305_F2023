@@ -4,5 +4,8 @@ Week 1: Thermodynamic equation of state: [python](https://github.com/takaito1/ea
 
 Week 2: Calculation of the mixed layer depth and N2: [python](https://github.com/takaito1/easX305_F2023/blob/main/week2/calc_MLD.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_F2023/HEAD?labpath=week2%2calc_MLD.ipynb) 
 
-Week 3: Make a T-S diagram from a cruise data: [python](https://github.com/takaito1/easX305_F2023/blob/main/week3/read_bottle_csv_file.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/takaito1/easX305_F2023/HEAD?labpath=week3%2read_bottle_csv_file.ipynb) 
+Week 3: Make a T-S diagram from a cruise data: [python](https://github.com/takaito1/easX305_F2023/blob/main/week3/read_bottle_csv_file.ipynb)
 
+Week 5: Calculating the dynamic height from the cruise data. [python](https://github.com/takaito1/easX305_F2023/blob/main/week5/calc_DynHeight.ipynb)
+
+Week 7: Calculating the basin-scale dynamic height from climatology. [python](https://github.com/takaito1/easX305_F2023/blob/main/week7/Dynamic%20height%20from%20TS.ipynb) ,[MATLAB](https://github.com/takaito1/easX305_F2023/blob/main/week7/Dynamic_Height_from_TS.mlx)
