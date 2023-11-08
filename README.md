@@ -11,3 +11,5 @@ Week 5: Calculating the dynamic height from the cruise data. [python](https://gi
 Week 7: Calculating the basin-scale dynamic height from climatology. [python](https://github.com/takaito1/easX305_F2023/blob/main/week7/Dynamic%20height%20from%20TS.ipynb) ,[MATLAB](https://github.com/takaito1/easX305_F2023/blob/main/week7/Dynamic_Height_from_TS.mlx)
 
 Week 11: Calculating the Redfield ratio from hydrographic section. [python](https://github.com/takaito1/easX305_F2023/blob/main/week11/week11.ipynb) [Google Colab](https://colab.research.google.com/github/takaito1/easX305_F2023/blob/main/week11/week11.ipynb)
+
+Week 12: Calculation of carbonate chemistry, approximate and exact. [python](https://github.com/takaito1/easX305_F2023/blob/main/week12/week12.ipynb) [Google Colab](https://colab.research.google.com/github/takaito1/easX305_F2023/blob/main/week12/week12.ipynb)
