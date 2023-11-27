@@ -13,3 +13,5 @@ Week 7: Calculating the basin-scale dynamic height from climatology. [python](ht
 Week 11: Calculating the Redfield ratio from hydrographic section. [python](https://github.com/takaito1/easX305_F2023/blob/main/week11/week11.ipynb) [Google Colab](https://colab.research.google.com/github/takaito1/easX305_F2023/blob/main/week11/week11.ipynb)
 
 Week 12: Calculation of carbonate chemistry, approximate and exact. [python](https://github.com/takaito1/easX305_F2023/blob/main/week12/week12.ipynb) [Google Colab](https://colab.research.google.com/github/takaito1/easX305_F2023/blob/main/week12/week12.ipynb)
+
+Week 15: Carbon Alkalinity Phosphorus box model. [python](https://github.com/takaito1/easX305_F2023/blob/main/week15/CAPboxmodel.ipynb) [Google Colab](https://colab.research.google.com/github/takaito1/easX305_F2023/blob/main/week15/CAPboxmodel.ipynb)
